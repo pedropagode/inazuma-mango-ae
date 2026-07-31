@@ -1,0 +1,6 @@
+# Pastas/arquivos gerados em runtime pelo app no PC do usuario
+config/
+crash/
+logs/
+*.new.exe
+*.old.exe
